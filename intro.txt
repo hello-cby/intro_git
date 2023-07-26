@@ -3,3 +3,4 @@ Gitの練習をします。
 gitadd 
 git commit
 git push -u origin master
+git rm
