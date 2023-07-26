@@ -4,3 +4,4 @@ gitadd
 git commit
 git push -u origin master
 git rm
+git status
